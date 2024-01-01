@@ -1,0 +1,3 @@
+E:\Projects\ActionRogueLike\ActionRogueLike\Intermediate\Build\Win64\UE4Editor\Development\ActionRogueLike\Definitions.ActionRogueLike.h
+C:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

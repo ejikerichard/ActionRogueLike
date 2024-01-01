@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ActionRogueLike",
+			"Path": "E:\\Projects\\ActionRogueLike\\ActionRogueLike\\Source\\ActionRogueLike.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ActionRogueLikeEditor",
+			"Path": "E:\\Projects\\ActionRogueLike\\ActionRogueLike\\Source\\ActionRogueLikeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

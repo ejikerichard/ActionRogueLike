@@ -1,0 +1,13 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\Projects\ActionRogueLike).
+  Creating makefile for ActionRogueLikeEditor (no existing makefile)
+  Building ActionRogueLikeEditor...
+  Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 4 processes...
+    [1/4] SMagicProjectile.cpp
+    [2/4] UE4Editor-ActionRogueLike.lib
+       Creating library E:\Projects\ActionRogueLike\ActionRogueLike\Intermediate\Build\Win64\UE4Editor\Development\ActionRogueLike\UE4Editor-ActionRogueLike.lib and object E:\Projects\ActionRogueLike\ActionRogueLike\Intermediate\Build\Win64\UE4Editor\Development\ActionRogueLike\UE4Editor-ActionRogueLike.exp
+    [3/4] UE4Editor-ActionRogueLike.dll
+       Creating library E:\Projects\ActionRogueLike\ActionRogueLike\Intermediate\Build\Win64\UE4Editor\Development\ActionRogueLike\UE4Editor-ActionRogueLike.suppressed.lib and object E:\Projects\ActionRogueLike\ActionRogueLike\Intermediate\Build\Win64\UE4Editor\Development\ActionRogueLike\UE4Editor-ActionRogueLike.suppressed.exp
+    [4/4] ActionRogueLikeEditor.target
+  Total time in Parallel executor: 177.41 seconds
+  Total execution time: 210.13 seconds

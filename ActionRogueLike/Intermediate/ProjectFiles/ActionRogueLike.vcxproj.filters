@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ActionRogueLike.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{357A0AD5-37D5-4A80-AF6E-0546D90255FD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRogueLike.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ActionRogueLikeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FF2ADA9E-4052-40C6-8251-D03EB6653A87}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ActionRogueLike">
+      <UniqueIdentifier>{7087A725-07E7-4559-BDA1-E63A764F2A10}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRogueLike\ActionRogueLike.Build.cs">
+      <Filter>Source\ActionRogueLike</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ActionRogueLike\ActionRogueLike.cpp">
+      <Filter>Source\ActionRogueLike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActionRogueLike\ActionRogueLike.h">
+      <Filter>Source\ActionRogueLike</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ActionRogueLike\ActionRogueLikeGameModeBase.cpp">
+      <Filter>Source\ActionRogueLike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActionRogueLike\ActionRogueLikeGameModeBase.h">
+      <Filter>Source\ActionRogueLike</Filter>
+    </ClInclude>
+    <Filter Include="Source\ActionRogueLike\Private">
+      <UniqueIdentifier>{25D7A3F0-180E-436A-859C-E9307824DD01}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ActionRogueLike\Private\SAttributeComponent.cpp">
+      <Filter>Source\ActionRogueLike\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRogueLike\Private\SCharacter.cpp">
+      <Filter>Source\ActionRogueLike\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRogueLike\Private\SExplosiveBarrel.cpp">
+      <Filter>Source\ActionRogueLike\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRogueLike\Private\SGameplayInterface.cpp">
+      <Filter>Source\ActionRogueLike\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRogueLike\Private\SInteractionComponent.cpp">
+      <Filter>Source\ActionRogueLike\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRogueLike\Private\SItemChest.cpp">
+      <Filter>Source\ActionRogueLike\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRogueLike\Private\SMagicProjectile.cpp">
+      <Filter>Source\ActionRogueLike\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ActionRogueLike\Public">
+      <UniqueIdentifier>{18942863-FD47-4A46-9768-C4C8254FBDF2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ActionRogueLike\Public\SAttributeComponent.h">
+      <Filter>Source\ActionRogueLike\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRogueLike\Public\SCharacter.h">
+      <Filter>Source\ActionRogueLike\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRogueLike\Public\SExplosiveBarrel.h">
+      <Filter>Source\ActionRogueLike\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRogueLike\Public\SGameplayInterface.h">
+      <Filter>Source\ActionRogueLike\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRogueLike\Public\SInteractionComponent.h">
+      <Filter>Source\ActionRogueLike\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRogueLike\Public\SItemChest.h">
+      <Filter>Source\ActionRogueLike\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRogueLike\Public\SMagicProjectile.h">
+      <Filter>Source\ActionRogueLike\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
